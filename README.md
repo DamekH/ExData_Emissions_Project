@@ -3,7 +3,7 @@ Coursera Exploratory Data Analysis Assisgnment 2
 
 This code produces graphs geared toward answering questions about total emissions between 1999 and 2008 for specific questions posed in the assignment.
 
-Assignment:
+Assignment, accessed from https://www.coursera.org/learn/exploratory-data-analysis/peer/b5Ecl/course-project-2 on 7/27/2017:
 
 Instructions
 Fine particulate matter (PM2.5) is an ambient air pollutant for which there is strong evidence that it is harmful to human health. In the United States, the Environmental Protection Agency (EPA) is tasked with setting national ambient air quality standards for fine PM and for tracking the emissions of this pollutant into the atmosphere. Approximatly every 3 years, the EPA releases its database on emissions of PM2.5. This database is known as the National Emissions Inventory (NEI). You can read more information about the NEI at the EPA National Emissions Inventory web site.
